@@ -6,6 +6,4 @@
 - **Tailwind**
 - **React Icons**
 
-### [Live Demo](https://shop-rzvkoli.vercel.app/)
-
 ---
